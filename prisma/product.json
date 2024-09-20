@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "name": "ABS",
+    "priceReguler": 32000,
+    "pricePlusPack": 33000
+  },
+  {
+    "id": 2,
+    "name": "Adaptor MX King",
+    "priceReguler": 140000,
+    "pricePlusPack": 141000
+  },
+  {
+    "id": 3,
+    "name": "AIS",
+    "priceReguler": 14000,
+    "pricePlusPack": 15000
+  },
+  {
+    "id": 4,
+    "name": "Arm KLX, CFR, Satria",
+    "priceReguler": 400000,
+    "pricePlusPack": 402000
+  },
+  {
+    "id": 5,
+    "name": "Behel CRF",
+    "priceReguler": 60000,
+    "pricePlusPack": 61000
+  },
+  {
+    "id": 6,
+    "name": "Bracket C ",
+    "type": "6 mm",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 7,
+    "name": "Bracket C ",
+    "type": "8 mm",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 8,
+    "name": "Bracket F ",
+    "type": "6 mm",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 9,
+    "name": "Bracket F ",
+    "type": "8 mm",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 10,
+    "name": "Bracket MX King",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 11,
+    "name": "Bracket Step Ninja Kawahara",
+    "priceReguler": 55000,
+    "pricePlusPack": 56000
+  },
+  {
+    "id": 12,
+    "name": "Bracket Step Ninja Original",
+    "priceReguler": 60000,
+    "pricePlusPack": 61000
+  },
+  {
+    "id": 13,
+    "name": "Bracket Step Ninja WR3",
+    "priceReguler": 60000,
+    "pricePlusPack": 61000
+  },
+  {
+    "id": 14,
+    "name": "Bracket Step Satria Kawahara",
+    "priceReguler": 55000,
+    "pricePlusPack": 56000
+  },
+  {
+    "id": 15,
+    "name": "Breket bonus ",
+    "priceReguler": 3000,
+    "pricePlusPack": 3000
+  },
+  {
+    "id": 16,
+    "name": "Breket lampu klx,crf,wr",
+    "priceReguler": 130000,
+    "pricePlusPack": 131000
+  },
+  {
+    "id": 17,
+    "name": "Cover Knalpot Pendek",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 18,
+    "name": "Deltabox KLX",
+    "priceReguler": 170000,
+    "pricePlusPack": 172000
+  },
+  {
+    "id": 19,
+    "name": "FootStep L 2 New Tanpa Jalu",
+    "type": "6 mm",
+    "priceReguler": 60000,
+    "pricePlusPack": 61000
+  },
+  {
+    "id": 20,
+    "name": "FootStep L 2 New Tanpa Jalu",
+    "type": "8 mm",
+    "priceReguler": 80000,
+    "pricePlusPack": 81000
+  },
+  {
+    "id": 21,
+    "name": "FootStep L 2 Old Tanpa Jalu",
+    "type": "6 mm",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 22,
+    "name": "FootStep L 3 Tanpa Jalu",
+    "type": "6 mm",
+    "priceReguler": 55000,
+    "pricePlusPack": 56000
+  },
+  {
+    "id": 23,
+    "name": "FootStep L 3 Tanpa Jalu",
+    "type": "8 mm",
+    "priceReguler": 70000,
+    "pricePlusPack": 71000
+  },
+  {
+    "id": 24,
+    "name": "FootStep Lurus Tanpa Jalu",
+    "type": "6 mm",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 25,
+    "name": "FootStep Lurus Tanpa Jalu",
+    "type": "8 mm",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 26,
+    "name": "Footstep MX King Bpro",
+    "priceReguler": 55000,
+    "pricePlusPack": 56000
+  },
+  {
+    "id": 27,
+    "name": "Footstep MX Old",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 28,
+    "name": "Footstep Polytron ",
+    "type": "Tumpuk",
+    "priceReguler": 65000,
+    "pricePlusPack": 66000
+  },
+  {
+    "id": 29,
+    "name": "Footstep Polytron ",
+    "type": "Biasa",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 30,
+    "name": "Gigi Geser Chrome",
+    "priceReguler": 40000,
+    "pricePlusPack": 41000
+  },
+  {
+    "id": 31,
+    "name": "Gigi Hu (NUI)",
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 32,
+    "name": "Gigi Satria Biasa",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 33,
+    "name": "Gigi Sonic Biasa",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 34,
+    "name": "Gigi Sonic New",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 35,
+    "name": "Gigi Trail KX , CRF",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 36,
+    "name": "Jalu As Roda KLX,CRF,WR",
+    "priceReguler": 175000,
+    "pricePlusPack": 176000
+  },
+  {
+    "id": 37,
+    "name": "Jalu Lipat Bundar",
+    "priceReguler": 65000,
+    "pricePlusPack": 66000
+  },
+  {
+    "id": 38,
+    "name": "Jalu Lipat Kotak",
+    "priceReguler": 60000,
+    "pricePlusPack": 61000
+  },
+  {
+    "id": 39,
+    "name": "Jalu Rem",
+    "priceReguler": 10000,
+    "pricePlusPack": 11000
+  },
+  {
+    "id": 40,
+    "name": "Jalu Teflon",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 41,
+    "name": "Karet Arm",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 42,
+    "name": "komstir ",
+    "priceReguler": 40000,
+    "pricePlusPack": 41000
+  },
+  {
+    "id": 43,
+    "name": "Link Lengkung CRF,KLX",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 44,
+    "name": "LowRing KLX,CRF,WR",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 45,
+    "name": "Lowring Ninja",
+    "type": "10 cm",
+    "priceReguler": 20000,
+    "pricePlusPack": 21000
+  },
+  {
+    "id": 46,
+    "name": "Lowring Ninja",
+    "type": "12 cm",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 47,
+    "name": "Lowring Ninja",
+    "type": "13 cm",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 48,
+    "name": "Lowring Ninja 150 Standar",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 49,
+    "name": "Lowring Ninja 150 Upgrade",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 50,
+    "name": "Lowring Satria",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 51,
+    "name": "Lowring Sonic",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 52,
+    "name": "Prolink Vixion",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 53,
+    "name": "Rem HU (NUI)",
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 54,
+    "name": "Rem KX,KLX,CRF,WR,TS",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 55,
+    "name": "Rem Lipat",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 56,
+    "name": "Rem Satria",
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 57,
+    "name": "Rem Sonic",
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 58,
+    "name": "Rem Sonic New",
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 59,
+    "name": "Selang Minyak Rem Transparan",
+    "type": "10 cm",
+    "priceReguler": 7500,
+    "pricePlusPack": 8500
+  },
+  {
+    "id": 60,
+    "name": "Selang Minyak Rem Transparan",
+    "type": "12 cm",
+    "priceReguler": 8500,
+    "pricePlusPack": 9500
+  },
+  {
+    "id": 61,
+    "name": "Selang Minyak Rem Transparan",
+    "type": "15 cm",
+    "priceReguler": 9500,
+    "pricePlusPack": 10500
+  },
+  {
+    "id": 62,
+    "name": "Selang Minyak Rem Warna",
+    "priceReguler": 7000,
+    "pricePlusPack": 8000
+  },
+  {
+    "id": 63,
+    "name": "Selang Tube Drain",
+    "priceReguler": 7000,
+    "pricePlusPack": 8000
+  },
+  {
+    "id": 64,
+    "name": "Spacher",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 65,
+    "name": "Standar Klk Crf silver",
+    "priceReguler": 31000,
+    "pricePlusPack": 32000
+  },
+  {
+    "id": 66,
+    "name": "stang RZR Bolong",
+    "type": "Hitam",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 67,
+    "name": "stang RZR Bolong ",
+    "type": "Chrome",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 68,
+    "name": "stang RZR Tutup",
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 69,
+    "name": "Step CRF",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 70,
+    "name": "Step L Original",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 71,
+    "name": "Step T Supermoto",
+    "priceReguler": 50000,
+    "pricePlusPack": 51000
+  },
+  {
+    "id": 72,
+    "name": "Step Universal KX",
+    "priceReguler": 36000,
+    "pricePlusPack": 37000
+  },
+  {
+    "id": 73,
+    "name": "Stick",
+    "type": 10,
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 74,
+    "name": "Stick",
+    "type": 12,
+    "priceReguler": 35000,
+    "pricePlusPack": 36000
+  },
+  {
+    "id": 75,
+    "name": "Stick",
+    "type": 15,
+    "priceReguler": 35500,
+    "pricePlusPack": 36500
+  },
+  {
+    "id": 76,
+    "name": "Stick",
+    "type": 20,
+    "priceReguler": 37000,
+    "pricePlusPack": 38000
+  },
+  {
+    "id": 77,
+    "name": "Stick",
+    "type": 25,
+    "priceReguler": 40000,
+    "pricePlusPack": 41000
+  },
+  {
+    "id": 78,
+    "name": "Stick",
+    "type": 27,
+    "priceReguler": 40000,
+    "pricePlusPack": 41000
+  },
+  {
+    "id": 79,
+    "name": "Stick",
+    "type": 30,
+    "priceReguler": 43000,
+    "pricePlusPack": 44000
+  },
+  {
+    "id": 80,
+    "name": "Stick",
+    "type": 37,
+    "priceReguler": 47000,
+    "pricePlusPack": 48000
+  },
+  {
+    "id": 81,
+    "name": "Stick",
+    "type": 40,
+    "priceReguler": 52000,
+    "pricePlusPack": 53000
+  },
+  {
+    "id": 82,
+    "name": "Tensioner KLX, CRF",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 83,
+    "name": "Tensioner KTM",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 84,
+    "name": "Tutup Rangka Ninja",
+    "priceReguler": 30000,
+    "pricePlusPack": 31000
+  },
+  {
+    "id": 85,
+    "name": "Tutup Rangka Satria",
+    "priceReguler": 25000,
+    "pricePlusPack": 26000
+  },
+  {
+    "id": 86,
+    "name": "Tutup Segitiga",
+    "priceReguler": 6000,
+    "pricePlusPack": 7000
+  },
+  {
+    "id": 87,
+    "name": "UB GTR New",
+    "type": "8 mm",
+    "priceReguler": 285000,
+    "pricePlusPack": 287000
+  },
+  {
+    "id": 88,
+    "name": "UB GTR Old",
+    "type": "8 mm",
+    "priceReguler": 240000,
+    "pricePlusPack": 242000
+  },
+  {
+    "id": 89,
+    "name": "UB MX King 1 Set",
+    "priceReguler": 360000,
+    "pricePlusPack": 362000
+  },
+  {
+    "id": 90,
+    "name": "UB MX king Tanpa Adaptor",
+    "priceReguler": 224000,
+    "pricePlusPack": 226000
+  },
+  {
+    "id": 91,
+    "name": "UB NGRT Besar",
+    "type": "8 mm",
+    "priceReguler": 365000,
+    "pricePlusPack": 367000
+  },
+  {
+    "id": 92,
+    "name": "UB Satria C ",
+    "type": "6 mm",
+    "priceReguler": 180000,
+    "pricePlusPack": 182000
+  },
+  {
+    "id": 93,
+    "name": "UB Satria C ",
+    "type": "8 mm",
+    "priceReguler": 230000,
+    "pricePlusPack": 232000
+  },
+  {
+    "id": 94,
+    "name": "UB Satria F ",
+    "type": "6 mm",
+    "priceReguler": 190000,
+    "pricePlusPack": 192000
+  },
+  {
+    "id": 95,
+    "name": "UB Satria F ",
+    "type": "8 mm",
+    "priceReguler": 240000,
+    "pricePlusPack": 242000
+  },
+  {
+    "id": 96,
+    "name": "UB Sonic New",
+    "type": "8 mm",
+    "priceReguler": 285000,
+    "pricePlusPack": 287000
+  },
+  {
+    "id": 97,
+    "name": "UB Sonic Old ",
+    "type": "6 mm",
+    "priceReguler": 195000,
+    "pricePlusPack": 197000
+  },
+  {
+    "id": 98,
+    "name": "UB Sonic Old ",
+    "type": "8 mm",
+    "priceReguler": 240000,
+    "pricePlusPack": 242000
+  },
+  {
+    "id": 99,
+    "name": "Unitrack KLX,CRF",
+    "priceReguler": 85000,
+    "pricePlusPack": 86000
+  },
+  {
+    "id": 100,
+    "name": "Stang CB ",
+    "type": "Hitam",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 101,
+    "name": "Stang CB ",
+    "type": "Chrome",
+    "priceReguler": 45000,
+    "pricePlusPack": 46000
+  },
+  {
+    "id": 102,
+    "name": "Tuas Gigi ",
+    "type": "Lubang",
+    "priceReguler": 40000,
+    "pricePlusPack": 41000
+  },
+  {
+    "id": 103,
+    "name": "AIS S",
+    "priceReguler": 22000,
+    "pricePlusPack": 23000
+  },
+  {
+    "id": 104,
+    "name": "Stick Tanpa ABS ",
+    "type": "10-27",
+    "priceReguler": 10000,
+    "pricePlusPack": 11000
+  },
+  {
+    "id": 105,
+    "name": "Stick Tanpa ABS ",
+    "type": "30-40",
+    "priceReguler": 15000,
+    "pricePlusPack": 16000
+  }
+]

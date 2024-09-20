@@ -1,11 +1,10 @@
 import {
-  Tag,
   Users,
   Settings,
-  Bookmark,
-  SquarePen,
   LayoutGrid,
-  LucideIcon
+  LucideIcon,
+  BoxIcon,
+  BadgeDollarSign
 } from "lucide-react";
 
 type Submenu = {
@@ -18,7 +17,7 @@ type Menu = {
   href: string;
   label: string;
   active: boolean;
-  icon: LucideIcon
+  icon: LucideIcon;
   submenus: Submenu[];
 };
 
@@ -42,42 +41,44 @@ export function getMenuList(pathname: string): Group[] {
       ]
     },
     {
-      groupLabel: "Contents",
+      groupLabel: "Master",
       menus: [
         {
-          href: "",
-          label: "Posts",
-          active: pathname.includes("/posts"),
-          icon: SquarePen,
-          submenus: [
-            {
-              href: "/posts",
-              label: "All Posts",
-              active: pathname === "/posts"
-            },
-            {
-              href: "/posts/new",
-              label: "New Post",
-              active: pathname === "/posts/new"
-            }
-          ]
-        },
-        {
-          href: "/categories",
-          label: "Categories",
-          active: pathname.includes("/categories"),
-          icon: Bookmark,
+          href: "/master-data",
+          label: "Master Data",
+          active: pathname.includes("/master-data"),
+          icon: BoxIcon,
           submenus: []
         },
         {
-          href: "/tags",
-          label: "Tags",
-          active: pathname.includes("/tags"),
-          icon: Tag,
+          href: "/member",
+          label: "Member",
+          active: pathname.includes("/member"),
+          icon: BoxIcon,
           submenus: []
         }
       ]
     },
+    {
+      groupLabel: "Transaction",
+      menus: [
+        {
+          href: "/sales",
+          label: "Sales",
+          active: pathname.includes("/sales"),
+          icon: BoxIcon,
+          submenus: []
+        },
+        {
+          href: "/payment",
+          label: "Payment",
+          active: pathname.includes("/payment"),
+          icon: BadgeDollarSign,
+          submenus: []
+        }
+      ]
+    },
+
     {
       groupLabel: "Settings",
       menus: [

@@ -1,9 +1,13 @@
 import type { Metadata } from "next";
 import { GeistSans } from "geist/font/sans";
+import { Toaster } from "@/components/ui/sonner";
 
 import "./globals.css";
 
 import { ThemeProvider } from "@/providers/theme-provider";
+import QueryProvider from "./queryProvider";
+import { SessionProvider } from "next-auth/react";
+import { auth } from "@/auth";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
@@ -13,7 +17,7 @@ export const metadata: Metadata = {
       ? `https://${process.env.VERCEL_URL}`
       : `http://localhost:${process.env.PORT || 3000}`
   ),
-  title: "shadcn/ui sidebar",
+  title: "Dzik",
   description:
     "A stunning and functional retractable sidebar for Next.js built on top of shadcn/ui complete with desktop and mobile responsiveness.",
   alternates: {
@@ -34,18 +38,24 @@ export const metadata: Metadata = {
   }
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const session = await auth();
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={GeistSans.className}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          {children}
-        </ThemeProvider>
-      </body>
+      <SessionProvider session={session}>
+        <body className={GeistSans.className}>
+          <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+            <QueryProvider>
+              {children}
+              <Toaster position="top-right" />
+            </QueryProvider>
+          </ThemeProvider>
+        </body>
+      </SessionProvider>
     </html>
   );
 }
