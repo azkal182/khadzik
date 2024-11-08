@@ -13,11 +13,11 @@ import {
 } from "@/components/ui/breadcrumb";
 import ContentWrapper from "@/components/content-wrapper";
 import { DataTableUser } from "./table";
-import useFetchUser from "@/feature/user/useFetchUser";
+// import useFetchUser from "@/feature/user/useFetchUser";
 import Loader from "@/components/loader";
 
 export default function UsersPage() {
-  const { data, isLoading, refetch } = useFetchUser();
+  //   const { data, isLoading, refetch } = useFetchUser();
   return (
     <ContentLayout title="Users">
       <Breadcrumb>
@@ -40,10 +40,11 @@ export default function UsersPage() {
         </BreadcrumbList>
       </Breadcrumb>
       <ContentWrapper>
-        {isLoading ? <Loader /> : null}
+        {/* {isLoading ? <Loader /> : null}
         {data ? (
           <DataTableUser users={data?.data} refetch={() => refetch()} />
-        ) : null}
+        ) : null} */}
+        <div>user</div>
       </ContentWrapper>
     </ContentLayout>
   );
